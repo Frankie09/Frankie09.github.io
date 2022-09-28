@@ -456,6 +456,7 @@
   position: relative;
   display: block;
   margin: 0;
+  margin-bottom: -150px;
   padding: 50px 0;
   background-color: #171925;
   color: #9FA2AB;
